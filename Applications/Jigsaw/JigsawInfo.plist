@@ -1,0 +1,41 @@
+{
+  ApplicationName = "Jigsaw";
+  ApplicationDescription = "A GNUstep Jigsaw Puzzle Program";
+  ApplicationRelease = "Jigsaw Puzzle 0.7";
+  FullVersionID = "0.7, December 2007";
+  Authors = ("Marko Riedel <markoriedelde@yahoo.de>");
+  Copyright = "Copyright (C) 2007 Free Software Foundation, Inc.";
+  CopyrightDescription = "Released under the GNU General Public License 2.0";
+  NSIcon = "Jigsaw.tiff";
+  NSTypes = (
+        {
+             NSName = "jigsaw";
+             NSHumanReadableName = "JIGSAW Document";
+             NSUnixExtensions = ("jigsaw");
+             NSRole = Editor;
+             NSDocumentClass = Document;
+        },
+        {
+             NSName = "tiff";
+             NSHumanReadableName = "TIFF Image";
+             NSUnixExtensions = ("tiff", "TIFF");
+             NSRole = Viewer;
+             NSDocumentClass = Document;
+        },
+        {
+             NSName = "png";
+             NSHumanReadableName = "PNG Image";
+             NSUnixExtensions = ("png", "PNG");
+             NSRole = Viewer;
+             NSDocumentClass = Document;
+        },
+        {
+             NSName = "jpeg";
+             NSHumanReadableName = "JPEG Image";
+             NSUnixExtensions = ("jpg", "JPG", "jpeg", "JPEG");
+             NSRole = Viewer;
+             NSDocumentClass = Document;
+        }
+  );              
+}
+

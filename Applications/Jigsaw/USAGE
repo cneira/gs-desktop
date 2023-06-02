@@ -1,0 +1,26 @@
+
+Jigsaw.app by Marko Riedel, markoriedelde@yahoo.de
+------------------------------------------------------------------
+
+You need a medium-sized TIFF/PNG/JPEG file to play this game.
+
+Left-click and drag to move a piece or cluster.
+Ctrl-left-click and drag to connect knobs to slots or slots to knobs.
+
+Right-click to disassemble  a cluster, undoing the  steps taken during
+assembly in as far as the structure has been preserved.
+
+Ctrl-right-click to extract a piece from a cluster.  Shift-right-click
+to extract a  connected component from a cluster  that contains pieces
+not sharing a common boundary.
+
+When joining pieces the second piece moves to the first. The direction
+of the connector that  appears can be used to choose  the order of the
+join.
+
+It can be difficult to manipulate two pieces that are very close
+together. It helps to move one of them so that they are at a greater
+distance.
+
+Click on the desktop to display the Scramble/Verify/Solve menu for a given
+document.
