@@ -1,0 +1,77 @@
+{
+  "scratch desktop.Scratch Desktop" = {
+    AlwaysUserIcon = No;
+    Icon = scratch.png;
+  };
+  TextEdit.GNUstep = {
+    Icon = TextEdit.GNUstep.xpm;
+  };
+  "GSDE-Safe-Mode.XTerm" = {
+    NoAppIcon = Yes;
+    DontSaveSession = Yes;
+    StartMiniaturized = Yes;
+  };
+  Scratch.GNUstep = {
+    Icon = scratch.png;
+  };
+  MainWorkspace.GNUstep = {
+    Icon = GWorkspace.GNUstep.xpm;
+  };
+  WebBrowser.GNUstep = {
+    Icon = WebBrowser.GNUstep.xpm;
+  };
+  Librarian.GNUstep = {
+    Icon = "/home/neirac/Library/WindowMaker/Library/WindowMaker/CachedPixmaps//Librarian.GNUstep.xpm";
+  };
+  "crx_bjbifcpnekpicloljlbcgpfbpeondioe.*" = {
+    Unfocusable = Yes;
+    NoAppIcon = Yes;
+  };
+  SimpleAgenda.GNUstep = {
+    Icon = SimpleAgenda.GNUstep.xpm;
+  };
+  Terminal.GNUstep = {
+    Icon = "/home/neirac/Library/WindowMaker/Library/WindowMaker/CachedPixmaps//Terminal.GNUstep.xpm";
+  };
+  Cynthiune.GNUstep = {
+    Icon = Cynthiune.GNUstep.xpm;
+  };
+  Dictionary.GNUstep = {
+    Icon = Dictionary.GNUstep.xpm;
+  };
+  ProjectCenter.GNUstep = {
+    Icon = ProjectCenter.GNUstep.xpm;
+  };
+  GNUMail.GNUstep = {
+    Icon = GNUMail.GNUstep.xpm;
+  };
+  VolMon.GNUstep = {
+    Icon = VolMon.GNUstep.xpm;
+  };
+  DUMMY.DUMMY = {
+    Icon = "/home/neirac/Library/WindowMaker/Library/WindowMaker/CachedPixmaps//DUMMY.DUMMY.xpm";
+  };
+  Preferences.GNUstep = {
+    Icon = "/home/neirac/Library/WindowMaker/Library/WindowMaker/CachedPixmaps//Preferences.GNUstep.xpm";
+  };
+  Gorm.GNUstep = {
+    Icon = "/home/neirac/Library/WindowMaker/Library/WindowMaker/CachedPixmaps//Gorm.GNUstep.xpm";
+  };
+  Emacs.GNUstep = {
+    AlwaysUserIcon = No;
+    Icon = Emacs.GNUstep.xpm;
+  };
+  GWorkspace.GNUstep = {
+    NoAppIcon = Yes;
+    DontSaveSession = Yes;
+  };
+  TimeMon.GNUstep = {
+    Icon = TimeMon.GNUstep.xpm;
+  };
+  Recycler.GNUstep = {
+    Icon = "/home/neirac/Library/WindowMaker/Library/WindowMaker/CachedPixmaps//Recycler.GNUstep.xpm";
+  };
+  BatMon.GNUstep = {
+    Icon = BatMon.GNUstep.xpm;
+  };
+}

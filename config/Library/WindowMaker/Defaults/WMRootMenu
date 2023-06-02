@@ -1,0 +1,8 @@
+(
+  "Window Maker",
+  ("Run Program", SHORTCUT, "Mod1+t", EXEC, "openapp Terminal"),
+  ("Take ScreenShot", SHORTCUT, Print, EXEC, "/Library/Scripts/GrabScreen"),
+  (Info, ("Info Panel...", INFO_PANEL), (Preferences..., EXEC, WPrefs)),
+  (Workspaces, WORKSPACE_MENU),
+  (Windows, WINDOWS_MENU)
+)

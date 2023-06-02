@@ -1,0 +1,265 @@
+{
+  Dock = {
+    AutoRaiseLower = No;
+    Applications = (
+      {
+        Forced = No;
+        OneShot = Yes;
+        Name = MainWorkspace.GNUstep;
+        DropCommand = "nxworkspace --select %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,0";
+        Lock = Yes;
+        PasteCommand = "nxworkspace --select %s";
+        Command = "nxworkspace --activate";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Preferences.GNUstep;
+        DropCommand = "Preferences %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,1";
+        Lock = No;
+        PasteCommand = "Preferences %s";
+        Command = Preferences;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = VolMon.GNUstep;
+        DropCommand = "VolMon %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,2";
+        Lock = No;
+        PasteCommand = "VolMon %s";
+        Command = VolMon;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = ProjectCenter.GNUstep;
+        DropCommand = "/Applications/ProjectCenter.app/ProjectCenter %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,3";
+        Lock = No;
+        PasteCommand = "/Applications/ProjectCenter.app/ProjectCenter %s";
+        Command = "/Applications/ProjectCenter.app/ProjectCenter";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Terminal.GNUstep;
+        DropCommand = "Terminal %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,4";
+        Lock = No;
+        PasteCommand = "Terminal %s";
+        Command = Terminal;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Gorm.GNUstep;
+        DropCommand = "/Applications/Gorm.app/Gorm %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,5";
+        Lock = No;
+        PasteCommand = "/Applications/Gorm.app/Gorm %s";
+        Command = "/Applications/Gorm.app/Gorm";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = WebBrowser.GNUstep;
+        DropCommand = "/Applications/WebBrowser.app/WebBrowser %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,6";
+        Lock = No;
+        PasteCommand = "/Applications/WebBrowser.app/WebBrowser %s";
+        Command = "/Applications/WebBrowser.app/WebBrowser";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Recycler.GNUstep;
+        DropCommand = "Recycler %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,8";
+        Lock = No;
+        PasteCommand = "Recycler %s";
+        Command = Recycler;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = BatMon.GNUstep;
+        DropCommand = "/Applications/Utilities/BatMon.app/BatMon %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,7";
+        Lock = No;
+        PasteCommand = "/Applications/Utilities/BatMon.app/BatMon %s";
+        Command = "/Applications/Utilities/BatMon.app/BatMon";
+      }
+    );
+    Lowered = Yes;
+    Position = "-64,0";
+    Applications600 = (
+      {
+        Forced = No;
+        OneShot = Yes;
+        Name = MainWorkspace.GNUstep;
+        DropCommand = "nxworkspace --select %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,0";
+        Lock = Yes;
+        PasteCommand = "nxworkspace --select %s";
+        Command = "nxworkspace --activate";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Preferences.GNUstep;
+        DropCommand = "Preferences %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,1";
+        Lock = No;
+        PasteCommand = "Preferences %s";
+        Command = Preferences;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = VolMon.GNUstep;
+        DropCommand = "VolMon %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,2";
+        Lock = No;
+        PasteCommand = "VolMon %s";
+        Command = VolMon;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = ProjectCenter.GNUstep;
+        DropCommand = "/Applications/ProjectCenter.app/ProjectCenter %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,3";
+        Lock = No;
+        PasteCommand = "/Applications/ProjectCenter.app/ProjectCenter %s";
+        Command = "/Applications/ProjectCenter.app/ProjectCenter";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Terminal.GNUstep;
+        DropCommand = "Terminal %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,4";
+        Lock = No;
+        PasteCommand = "Terminal %s";
+        Command = Terminal;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Gorm.GNUstep;
+        DropCommand = "/Applications/Gorm.app/Gorm %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,5";
+        Lock = No;
+        PasteCommand = "/Applications/Gorm.app/Gorm %s";
+        Command = "/Applications/Gorm.app/Gorm";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = WebBrowser.GNUstep;
+        DropCommand = "/Applications/WebBrowser.app/WebBrowser %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,6";
+        Lock = No;
+        PasteCommand = "/Applications/WebBrowser.app/WebBrowser %s";
+        Command = "/Applications/WebBrowser.app/WebBrowser";
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = Recycler.GNUstep;
+        DropCommand = "Recycler %d";
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,8";
+        Lock = No;
+        PasteCommand = "Recycler %s";
+        Command = Recycler;
+      },
+      {
+        Forced = No;
+        OneShot = No;
+        Name = BatMon.GNUstep;
+        DropCommand = "/Applications/Utilities/BatMon.app/BatMon %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,7";
+        Lock = No;
+        PasteCommand = "/Applications/Utilities/BatMon.app/BatMon %s";
+        Command = "/Applications/Utilities/BatMon.app/BatMon";
+      }
+    );
+  };
+  Clip = {
+    Forced = No;
+    OneShot = No;
+    Name = Logo.WMClip;
+    DropCommand = "wmsetbg -u -t %d";
+    BuggyApplication = No;
+    AutoLaunch = No;
+    Position = "7,5";
+    Lock = No;
+    Command = "-";
+  };
+  Applications = ();
+  Drawers = ();
+  Workspaces = (
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = Yes;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = Main;
+    },
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = No;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = "Workspace 2";
+    }
+  );
+  Workspace = Main;
+}
